@@ -2,6 +2,8 @@
 
 A FastAPI webhook for processing WhatsApp voice messages, converting them to text using OpenAI Whisper, and sending the transcription back via the WhatsApp API.
 
+https://github.com/user-attachments/assets/aab9b6e1-5510-422a-b1c7-4bea34ca7084
+
 ## How it works
 
 - Converts WhatsApp voice messages to text.
