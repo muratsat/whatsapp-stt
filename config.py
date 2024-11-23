@@ -4,6 +4,7 @@ class Settings(BaseSettings):
     whatsapp_api_url: str
     whatsapp_api_key: str
     whatsapp_session_id: str
+    openai_api_key: str
 
     model_config = SettingsConfigDict(env_file=".env")
 
